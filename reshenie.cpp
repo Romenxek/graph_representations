@@ -22,7 +22,7 @@ public:
 
         if (typeInput == 'C') { typeRepr = 0;}
         else if (typeInput == 'L') { typeRepr = 1; }
-        else if (typeInput == 'e') { typeRepr = 2; }
+        else if (typeInput == 'E') { typeRepr = 2; }
 
         inputFile >> cntV;
 
